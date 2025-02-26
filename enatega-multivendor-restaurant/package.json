@@ -34,8 +34,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.8",
-    "@expo/config-plugins": "~9.0.15",
-    "@react-native-async-storage/async-storage": "1.23.1",
+
     "@react-native-community/masked-view": "0.1.11",
     "@react-navigation/bottom-tabs": "^6.2.0",
     "@react-navigation/drawer": "^6.3.1",
@@ -50,7 +49,7 @@
     "expo-device": "~6.0.2",
     "expo-localization": "~15.0.3",
     "expo-notifications": "~0.28.9",
-    "expo-print": "~13.0.1",
+    "expo-print": "~14.0.3",
     "expo-secure-store": "~13.0.2",
     "expo-status-bar": "~1.12.1",
     "expo-updates": "~0.25.18",
@@ -92,7 +91,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-standard": "^4.0.1",
-    "husky": "^4.2.5",
+    "husky": "^9.1.7",
     "lint-staged": "^10.2.7",
     "prettier": "2.0.5",
     "prettier-config-standard": "^1.0.1"
