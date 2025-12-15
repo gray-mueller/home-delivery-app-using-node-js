@@ -33,7 +33,7 @@
     ]
   },
   "dependencies": {
-    "@apollo/client": "^3.5.8",
+    "@apollo/client": "^4.0.10",
 
 
     "@react-native-community/masked-view": "0.1.11",
